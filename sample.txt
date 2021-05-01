@@ -19,3 +19,16 @@ In this tutorials i goint to learn Turtle graphics in Python
 >>> turtle.colormode(255)
 >>> amu.color(120,40,50)
 '''
+2p
+>>> import turtle
+>>> a=turtle.Turtle()
+>>> a.color('red')
+>>> a.shape('turtle')
+>>> wn=turtle.Screen()
+>>> wn.bgcolor('black')
+>>> turtle.colormode(255)
+>>> wn.bgcolor(120,43,23)
+
+>>> wn.title('balaji')
+>>>
+
