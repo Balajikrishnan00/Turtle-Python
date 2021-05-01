@@ -1,1 +1,21 @@
 In this tutorials i goint to learn Turtle graphics in Python
+'''
+1p
+>>> import turtle
+>>> amu=turtle.Turtle()
+
+
+>>> amu.shape()
+'classic'
+>>> amu.shape('turtle')
+>>> amu.color()
+('black', 'black')
+>>> amu.forward(100)
+>>> amu.color('red')
+>>> amu.forward(100)
+>>> amu.color('blue','green')
+>>> amu.backward(300)
+
+>>> turtle.colormode(255)
+>>> amu.color(120,40,50)
+'''
